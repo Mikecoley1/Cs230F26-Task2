@@ -20,3 +20,4 @@ function CheckCard(){
         document.getElementById("result").innerHTML = "invalid";
         }
 }
+
